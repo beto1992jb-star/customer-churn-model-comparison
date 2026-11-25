@@ -1,0 +1,501 @@
+customer_id,age,tenure_months,monthly_charges,support_tickets,contract_type,payment_method,internet_service,paperless_billing,tech_support,churn
+STD0001,,67.0,76.19,1,Month-to-month,Credit card,Fiber,Yes,Yes,1
+STD0002,21.0,24.0,79.08,0,Two year,Bank transfer,Fiber,Yes,Yes,0
+STD0003,39.0,72.0,82.47,2,One year,Bank transfer,DSL,Yes,No,0
+STD0004,43.0,32.0,40.79,0,One year,Credit card,No internet,No,No,1
+STD0005,46.0,24.0,53.1,1,Month-to-month,Credit card,DSL,Yes,No,1
+STD0006,30.0,84.0,68.87,4,One year,Bank transfer,Fiber,No,No,1
+STD0007,57.0,30.0,51.81,3,Two year,Bank transfer,Fiber,No,No,0
+STD0008,18.0,24.0,86.41,1,One year,Bank transfer,DSL,No,Yes,0
+STD0009,56.0,11.0,59.38,0,One year,Credit card,No internet,No,No,0
+STD0010,20.0,70.0,128.31,3,One year,Bank transfer,Fiber,Yes,No,0
+STD0011,49.0,5.0,75.32,2,Month-to-month,Credit card,Fiber,No,No,1
+STD0012,71.0,65.0,82.88,3,Two year,Credit card,No internet,Yes,Yes,0
+STD0013,62.0,59.0,84.63,4,Month-to-month,Bank transfer,Fiber,Yes,No,1
+STD0014,20.0,4.0,55.1,1,One year,Electronic check,Fiber,Yes,Yes,1
+STD0015,48.0,50.0,83.53,0,Month-to-month,Electronic check,Fiber,Yes,No,1
+STD0016,64.0,2.0,80.19,1,One year,Credit card,Fiber,Yes,Yes,1
+STD0017,50.0,20.0,59.1,4,Month-to-month,Electronic check,No internet,Yes,Yes,1
+STD0018,68.0,64.0,87.24,1,Month-to-month,Credit card,Fiber,No,Yes,0
+STD0019,46.0,25.0,54.48,0,One year,Credit card,Fiber,Yes,Yes,0
+STD0020,71.0,77.0,83.23,0,Month-to-month,Credit card,Fiber,Yes,No,0
+STD0021,33.0,53.0,71.47,0,Month-to-month,Electronic check,DSL,Yes,No,0
+STD0022,40.0,64.0,92.79,1,One year,Credit card,DSL,Yes,No,1
+STD0023,63.0,14.0,106.79,2,One year,Credit card,DSL,Yes,No,1
+STD0024,63.0,47.0,86.78,1,Month-to-month,Electronic check,DSL,No,No,1
+STD0025,54.0,20.0,46.81,2,Month-to-month,Bank transfer,Fiber,Yes,No,1
+STD0026,46.0,73.0,42.68,2,Two year,Bank transfer,Fiber,Yes,No,0
+STD0027,44.0,46.0,62.56,2,Month-to-month,Credit card,Fiber,No,No,0
+STD0028,59.0,59.0,78.95,2,Month-to-month,Bank transfer,No internet,No,Yes,0
+STD0029,48.0,58.0,66.19,3,Month-to-month,Credit card,Fiber,Yes,Yes,0
+STD0030,63.0,18.0,75.1,1,One year,Bank transfer,Fiber,No,No,0
+STD0031,41.0,,106.15,1,Two year,Credit card,DSL,No,Yes,0
+STD0032,22.0,41.0,67.29,5,One year,Electronic check,Fiber,Yes,Yes,0
+STD0033,55.0,74.0,68.86,1,Month-to-month,Bank transfer,DSL,Yes,No,0
+STD0034,54.0,3.0,33.66,0,Month-to-month,Bank transfer,DSL,Yes,Yes,0
+STD0035,64.0,8.0,102.54,5,Month-to-month,Electronic check,DSL,No,No,1
+STD0036,31.0,32.0,65.05,1,One year,Bank transfer,DSL,Yes,Yes,0
+STD0037,68.0,67.0,103.95,1,Month-to-month,Credit card,Fiber,Yes,No,1
+STD0038,33.0,49.0,48.51,2,One year,Bank transfer,DSL,No,Yes,0
+STD0039,63.0,76.0,59.97,1,Two year,Credit card,DSL,No,No,0
+STD0040,62.0,64.0,71.36,1,Month-to-month,Bank transfer,Fiber,Yes,No,1
+STD0041,45.0,5.0,89.08,0,One year,Credit card,No internet,No,Yes,0
+STD0042,,65.0,23.38,4,Month-to-month,Bank transfer,DSL,Yes,,0
+STD0043,56.0,42.0,99.65,0,One year,Electronic check,No internet,No,,0
+STD0044,33.0,68.0,62.63,1,One year,Credit card,Fiber,Yes,Yes,0
+STD0045,56.0,43.0,59.42,0,One year,Bank transfer,Fiber,Yes,No,0
+STD0046,72.0,25.0,54.99,0,Month-to-month,Credit card,Fiber,Yes,No,0
+STD0047,67.0,45.0,35.14,2,Month-to-month,Electronic check,Fiber,No,No,0
+STD0048,64.0,46.0,103.28,1,Two year,Electronic check,DSL,Yes,Yes,0
+STD0049,59.0,19.0,44.58,2,One year,Electronic check,Fiber,Yes,No,0
+STD0050,40.0,59.0,35.18,2,Month-to-month,Electronic check,Fiber,Yes,No,0
+STD0051,49.0,61.0,72.06,0,Month-to-month,Electronic check,DSL,No,No,1
+STD0052,64.0,56.0,68.39,3,Month-to-month,Credit card,DSL,Yes,Yes,0
+STD0053,62.0,14.0,64.98,0,One year,Electronic check,Fiber,No,Yes,0
+STD0054,45.0,26.0,68.46,4,Month-to-month,Credit card,DSL,Yes,No,1
+STD0055,,52.0,63.25,3,Month-to-month,Bank transfer,DSL,Yes,No,0
+STD0056,56.0,67.0,57.97,1,One year,Credit card,Fiber,Yes,No,0
+STD0057,54.0,33.0,78.15,1,Two year,Electronic check,Fiber,Yes,No,0
+STD0058,60.0,48.0,99.05,5,Month-to-month,Bank transfer,DSL,Yes,No,0
+STD0059,31.0,9.0,49.03,2,One year,Credit card,Fiber,Yes,No,0
+STD0060,40.0,13.0,51.16,1,Month-to-month,Bank transfer,DSL,No,Yes,1
+STD0061,22.0,64.0,143.23,1,Month-to-month,Credit card,Fiber,No,No,0
+STD0062,57.0,76.0,82.61,1,One year,Electronic check,Fiber,Yes,No,0
+STD0063,32.0,78.0,,3,Two year,Credit card,Fiber,No,No,0
+STD0064,33.0,52.0,46.96,0,Month-to-month,Bank transfer,DSL,Yes,Yes,0
+STD0065,19.0,61.0,76.27,4,Month-to-month,Electronic check,No internet,Yes,No,0
+STD0066,59.0,49.0,53.77,1,One year,Electronic check,Fiber,No,No,0
+STD0067,60.0,83.0,55.63,5,Month-to-month,Credit card,Fiber,Yes,Yes,1
+STD0068,63.0,36.0,115.56,2,Month-to-month,Electronic check,Fiber,Yes,Yes,1
+STD0069,56.0,81.0,67.66,1,One year,Bank transfer,DSL,Yes,Yes,0
+STD0070,60.0,30.0,68.31,1,One year,Bank transfer,Fiber,Yes,No,0
+STD0071,41.0,6.0,62.15,1,One year,Credit card,DSL,Yes,Yes,0
+STD0072,29.0,47.0,75.11,2,Two year,Bank transfer,Fiber,No,No,0
+STD0073,50.0,79.0,42.21,1,Month-to-month,Credit card,Fiber,No,No,0
+STD0074,19.0,51.0,61.15,2,Two year,Electronic check,Fiber,Yes,Yes,0
+STD0075,56.0,71.0,71.44,0,One year,Bank transfer,Fiber,Yes,No,0
+STD0076,64.0,29.0,73.35,2,Month-to-month,Credit card,No internet,Yes,No,0
+STD0077,37.0,12.0,51.66,0,Two year,Credit card,Fiber,Yes,No,0
+STD0078,65.0,36.0,74.85,1,Two year,Electronic check,DSL,No,No,0
+STD0079,18.0,68.0,48.19,2,One year,Bank transfer,Fiber,Yes,No,0
+STD0080,46.0,70.0,46.75,0,One year,Credit card,DSL,Yes,No,0
+STD0081,28.0,26.0,44.41,0,Month-to-month,Electronic check,Fiber,Yes,Yes,0
+STD0082,19.0,42.0,90.59,1,One year,Electronic check,DSL,Yes,No,0
+STD0083,41.0,7.0,43.15,2,Month-to-month,Electronic check,DSL,Yes,Yes,0
+STD0084,64.0,81.0,66.07,3,Two year,Electronic check,No internet,Yes,No,0
+STD0085,64.0,9.0,64.15,1,Month-to-month,,No internet,Yes,Yes,0
+STD0086,60.0,73.0,73.43,3,Month-to-month,Credit card,Fiber,Yes,Yes,0
+STD0087,64.0,59.0,99.22,2,Month-to-month,Credit card,No internet,Yes,Yes,1
+STD0088,36.0,,41.77,3,Two year,Electronic check,Fiber,Yes,Yes,0
+STD0089,69.0,50.0,26.43,4,Two year,Credit card,Fiber,Yes,Yes,0
+STD0090,49.0,46.0,35.39,2,Month-to-month,Electronic check,Fiber,Yes,No,0
+STD0091,72.0,46.0,115.93,1,Month-to-month,Bank transfer,Fiber,Yes,Yes,0
+STD0092,59.0,22.0,112.22,4,Month-to-month,Bank transfer,DSL,Yes,No,1
+STD0093,71.0,32.0,89.08,0,Month-to-month,Bank transfer,Fiber,Yes,No,1
+STD0094,56.0,39.0,54.5,2,Month-to-month,Bank transfer,DSL,Yes,Yes,1
+STD0095,31.0,21.0,82.08,1,Two year,Electronic check,No internet,Yes,Yes,0
+STD0096,64.0,33.0,92.01,1,Two year,Bank transfer,DSL,No,Yes,0
+STD0097,66.0,63.0,43.99,1,Month-to-month,Credit card,DSL,Yes,No,0
+STD0098,74.0,35.0,86.19,1,One year,Electronic check,Fiber,Yes,Yes,0
+STD0099,47.0,71.0,76.69,2,Month-to-month,Electronic check,Fiber,Yes,Yes,0
+STD0100,46.0,6.0,42.81,2,Month-to-month,Bank transfer,DSL,Yes,No,1
+STD0101,50.0,50.0,46.93,0,Month-to-month,Bank transfer,No internet,Yes,Yes,0
+STD0102,62.0,41.0,44.28,2,Month-to-month,Electronic check,Fiber,Yes,Yes,0
+STD0103,54.0,40.0,104.09,2,Month-to-month,Bank transfer,Fiber,No,No,0
+STD0104,36.0,33.0,62.22,1,Month-to-month,Credit card,No internet,Yes,No,0
+STD0105,48.0,68.0,34.56,1,One year,Bank transfer,DSL,Yes,Yes,0
+STD0106,53.0,26.0,75.4,0,Two year,Credit card,DSL,Yes,No,0
+STD0107,59.0,71.0,55.36,1,Month-to-month,Credit card,No internet,No,Yes,1
+STD0108,35.0,64.0,128.24,0,Two year,Electronic check,No internet,No,Yes,0
+STD0109,52.0,9.0,74.34,1,Month-to-month,Credit card,Fiber,No,No,0
+STD0110,70.0,81.0,68.2,0,Month-to-month,Credit card,Fiber,No,No,0
+STD0111,37.0,76.0,81.69,2,Two year,Credit card,DSL,Yes,Yes,0
+STD0112,74.0,73.0,66.65,1,Two year,Credit card,Fiber,Yes,No,0
+STD0113,52.0,14.0,71.3,3,Month-to-month,Bank transfer,Fiber,Yes,No,0
+STD0114,42.0,73.0,56.57,0,One year,Bank transfer,Fiber,No,No,0
+STD0115,58.0,17.0,55.19,2,Month-to-month,Credit card,DSL,No,Yes,0
+STD0116,56.0,46.0,91.06,3,Two year,Credit card,Fiber,Yes,Yes,0
+STD0117,48.0,9.0,102.51,2,Month-to-month,Credit card,Fiber,Yes,No,0
+STD0118,69.0,63.0,36.4,1,Two year,Credit card,No internet,Yes,No,0
+STD0119,52.0,40.0,80.86,1,One year,Electronic check,No internet,Yes,No,0
+STD0120,55.0,22.0,87.2,1,Two year,Credit card,DSL,Yes,Yes,0
+STD0121,65.0,75.0,58.88,4,Month-to-month,Electronic check,Fiber,No,No,1
+STD0122,58.0,67.0,83.99,3,Month-to-month,Credit card,Fiber,Yes,Yes,1
+STD0123,30.0,44.0,78.97,1,Month-to-month,Bank transfer,DSL,No,No,1
+STD0124,19.0,70.0,36.57,2,One year,Bank transfer,No internet,Yes,Yes,0
+STD0125,39.0,8.0,33.02,0,One year,Bank transfer,Fiber,Yes,No,1
+STD0126,29.0,24.0,41.02,1,One year,Electronic check,Fiber,Yes,No,1
+STD0127,38.0,25.0,73.72,1,Two year,Bank transfer,Fiber,Yes,Yes,0
+STD0128,26.0,29.0,46.54,2,Two year,Electronic check,Fiber,Yes,No,0
+STD0129,71.0,20.0,44.17,1,Month-to-month,,DSL,No,Yes,0
+STD0130,68.0,64.0,89.63,1,Month-to-month,Credit card,Fiber,Yes,No,1
+STD0131,67.0,49.0,,0,One year,Electronic check,DSL,No,No,0
+STD0132,31.0,24.0,99.92,3,Month-to-month,Bank transfer,Fiber,Yes,Yes,1
+STD0133,61.0,54.0,98.15,3,Two year,Bank transfer,No internet,No,No,0
+STD0134,71.0,66.0,81.16,2,Two year,Credit card,Fiber,Yes,No,0
+STD0135,51.0,25.0,73.12,2,Two year,Credit card,Fiber,Yes,No,0
+STD0136,73.0,80.0,98.11,1,One year,Credit card,DSL,Yes,No,0
+STD0137,39.0,67.0,62.92,1,Month-to-month,Electronic check,Fiber,Yes,No,0
+STD0138,74.0,74.0,82.93,0,Month-to-month,Credit card,Fiber,Yes,No,0
+STD0139,65.0,66.0,56.48,1,Month-to-month,,DSL,No,No,1
+STD0140,75.0,45.0,96.72,1,Two year,Bank transfer,Fiber,Yes,Yes,1
+STD0141,29.0,11.0,37.43,1,Month-to-month,Electronic check,Fiber,Yes,No,0
+STD0142,72.0,57.0,70.82,1,Two year,Bank transfer,Fiber,No,Yes,0
+STD0143,,5.0,83.21,0,Two year,Bank transfer,DSL,No,No,0
+STD0144,57.0,54.0,75.93,4,Month-to-month,Bank transfer,Fiber,No,No,0
+STD0145,33.0,70.0,85.68,2,Month-to-month,Credit card,DSL,No,Yes,0
+STD0146,21.0,57.0,68.57,1,Month-to-month,Electronic check,Fiber,Yes,Yes,0
+STD0147,26.0,15.0,61.39,2,Month-to-month,Bank transfer,DSL,Yes,Yes,0
+STD0148,18.0,10.0,18.0,3,Month-to-month,Bank transfer,Fiber,Yes,No,0
+STD0149,23.0,9.0,49.93,1,Month-to-month,Electronic check,Fiber,Yes,Yes,0
+STD0150,62.0,,80.91,1,Month-to-month,Electronic check,Fiber,Yes,Yes,1
+STD0151,46.0,31.0,50.53,2,Month-to-month,Credit card,Fiber,Yes,No,1
+STD0152,70.0,7.0,102.14,1,Month-to-month,Electronic check,Fiber,Yes,No,1
+STD0153,54.0,81.0,84.24,1,Two year,Electronic check,DSL,No,Yes,0
+STD0154,28.0,32.0,49.81,1,Two year,Credit card,Fiber,Yes,No,0
+STD0155,26.0,43.0,87.27,1,Month-to-month,Bank transfer,Fiber,Yes,No,0
+STD0156,57.0,10.0,41.3,1,Month-to-month,Electronic check,Fiber,Yes,Yes,0
+STD0157,51.0,53.0,44.55,2,Month-to-month,Credit card,Fiber,Yes,No,0
+STD0158,56.0,46.0,69.38,1,One year,Electronic check,DSL,No,No,0
+STD0159,,7.0,38.15,0,One year,Credit card,DSL,Yes,Yes,0
+STD0160,43.0,3.0,40.97,1,Month-to-month,Credit card,No internet,No,Yes,0
+STD0161,62.0,37.0,55.6,3,Month-to-month,Electronic check,Fiber,No,No,1
+STD0162,50.0,75.0,81.25,1,Two year,Credit card,DSL,Yes,Yes,0
+STD0163,,16.0,76.69,2,One year,Credit card,DSL,No,Yes,0
+STD0164,48.0,23.0,39.38,0,One year,Electronic check,Fiber,No,No,0
+STD0165,55.0,73.0,67.77,1,Two year,Credit card,DSL,Yes,Yes,0
+STD0166,63.0,41.0,98.09,0,Month-to-month,Bank transfer,Fiber,Yes,Yes,0
+STD0167,40.0,57.0,102.62,0,Month-to-month,Bank transfer,DSL,No,Yes,0
+STD0168,31.0,38.0,127.47,1,Two year,,Fiber,Yes,Yes,0
+STD0169,75.0,23.0,92.21,1,One year,Bank transfer,No internet,No,Yes,0
+STD0170,42.0,74.0,59.23,0,Month-to-month,Credit card,Fiber,No,Yes,0
+STD0171,39.0,65.0,72.74,0,One year,Electronic check,Fiber,No,Yes,0
+STD0172,32.0,3.0,41.24,0,Month-to-month,Credit card,Fiber,Yes,Yes,0
+STD0173,19.0,49.0,75.51,1,Month-to-month,Credit card,Fiber,No,No,0
+STD0174,34.0,74.0,,3,Month-to-month,Bank transfer,Fiber,Yes,Yes,1
+STD0175,30.0,24.0,63.57,0,Month-to-month,Bank transfer,Fiber,Yes,Yes,0
+STD0176,33.0,81.0,85.72,0,Two year,Bank transfer,Fiber,Yes,No,0
+STD0177,34.0,35.0,94.62,3,Month-to-month,Credit card,Fiber,Yes,No,1
+STD0178,67.0,70.0,42.36,2,Month-to-month,Electronic check,Fiber,No,No,0
+STD0179,36.0,77.0,81.56,5,Two year,Bank transfer,Fiber,Yes,Yes,0
+STD0180,22.0,21.0,75.07,0,Month-to-month,Bank transfer,No internet,No,Yes,1
+STD0181,37.0,76.0,78.31,3,Month-to-month,Credit card,Fiber,Yes,No,0
+STD0182,75.0,13.0,121.67,3,One year,Electronic check,Fiber,Yes,Yes,1
+STD0183,49.0,65.0,96.27,5,Two year,Electronic check,DSL,Yes,Yes,1
+STD0184,67.0,64.0,81.87,1,One year,Credit card,DSL,Yes,Yes,0
+STD0185,34.0,40.0,49.51,2,Month-to-month,Electronic check,Fiber,Yes,No,1
+STD0186,75.0,71.0,73.27,1,One year,Electronic check,DSL,No,No,0
+STD0187,70.0,41.0,46.26,1,Month-to-month,Bank transfer,Fiber,No,No,0
+STD0188,19.0,27.0,69.33,3,One year,Bank transfer,No internet,Yes,No,1
+STD0189,53.0,18.0,66.84,2,Month-to-month,Electronic check,Fiber,Yes,No,0
+STD0190,25.0,42.0,41.87,1,Month-to-month,Credit card,Fiber,Yes,No,1
+STD0191,25.0,7.0,47.67,3,Month-to-month,Electronic check,Fiber,Yes,Yes,1
+STD0192,48.0,40.0,82.95,3,Month-to-month,Bank transfer,DSL,Yes,Yes,0
+STD0193,55.0,37.0,54.31,1,One year,Credit card,Fiber,No,No,0
+STD0194,37.0,51.0,95.36,1,Month-to-month,Credit card,DSL,No,Yes,0
+STD0195,67.0,13.0,72.1,2,Two year,Bank transfer,Fiber,No,Yes,0
+STD0196,75.0,18.0,88.25,1,Month-to-month,Bank transfer,Fiber,Yes,Yes,1
+STD0197,28.0,60.0,102.83,2,Month-to-month,Bank transfer,Fiber,Yes,No,0
+STD0198,47.0,34.0,46.85,0,Month-to-month,Credit card,Fiber,Yes,Yes,0
+STD0199,39.0,71.0,43.55,0,Month-to-month,Electronic check,Fiber,Yes,No,0
+STD0200,40.0,38.0,28.69,5,Two year,Bank transfer,No internet,Yes,No,0
+STD0201,32.0,45.0,73.31,1,Month-to-month,Credit card,Fiber,Yes,Yes,1
+STD0202,71.0,62.0,84.08,3,Month-to-month,Bank transfer,Fiber,Yes,No,1
+STD0203,58.0,67.0,94.88,1,Month-to-month,Credit card,Fiber,Yes,Yes,0
+STD0204,72.0,81.0,107.1,4,Month-to-month,Credit card,Fiber,No,No,0
+STD0205,26.0,73.0,75.3,1,One year,Credit card,No internet,Yes,No,0
+STD0206,57.0,33.0,51.82,2,Month-to-month,Electronic check,DSL,Yes,No,0
+STD0207,25.0,12.0,76.87,2,Two year,Electronic check,DSL,Yes,No,1
+STD0208,48.0,52.0,93.56,2,Month-to-month,Bank transfer,Fiber,No,No,0
+STD0209,52.0,68.0,105.12,1,Month-to-month,Electronic check,DSL,Yes,Yes,1
+STD0210,24.0,67.0,132.65,2,Month-to-month,Electronic check,Fiber,Yes,No,1
+STD0211,27.0,61.0,81.45,2,Month-to-month,Bank transfer,DSL,Yes,No,1
+STD0212,25.0,13.0,60.07,1,Month-to-month,Bank transfer,Fiber,No,No,1
+STD0213,21.0,39.0,72.6,2,Month-to-month,Electronic check,Fiber,Yes,No,1
+STD0214,45.0,54.0,51.82,2,One year,Credit card,Fiber,No,No,0
+STD0215,37.0,78.0,48.35,1,Month-to-month,Electronic check,No internet,Yes,No,0
+STD0216,49.0,43.0,67.31,1,Month-to-month,Credit card,DSL,Yes,No,0
+STD0217,73.0,35.0,58.17,1,Two year,Electronic check,DSL,Yes,No,0
+STD0218,22.0,68.0,44.76,3,Month-to-month,Bank transfer,Fiber,No,Yes,0
+STD0219,58.0,1.0,46.6,2,Month-to-month,Electronic check,Fiber,Yes,,1
+STD0220,33.0,49.0,34.76,3,Month-to-month,Credit card,Fiber,No,No,1
+STD0221,66.0,12.0,93.18,0,Month-to-month,,Fiber,No,No,1
+STD0222,23.0,55.0,61.16,4,One year,Electronic check,No internet,No,No,1
+STD0223,56.0,13.0,84.6,0,Month-to-month,Electronic check,Fiber,No,No,1
+STD0224,18.0,26.0,75.39,3,Two year,Bank transfer,Fiber,Yes,No,0
+STD0225,68.0,30.0,69.18,4,Month-to-month,Bank transfer,DSL,Yes,No,1
+STD0226,31.0,5.0,51.91,3,One year,Electronic check,DSL,Yes,Yes,0
+STD0227,60.0,23.0,77.21,1,One year,Credit card,Fiber,No,No,0
+STD0228,63.0,66.0,82.77,2,One year,Electronic check,DSL,Yes,No,0
+STD0229,53.0,70.0,105.52,0,One year,Bank transfer,No internet,Yes,Yes,0
+STD0230,24.0,32.0,31.36,0,Month-to-month,Bank transfer,Fiber,No,Yes,0
+STD0231,56.0,12.0,73.64,3,One year,Bank transfer,DSL,Yes,No,1
+STD0232,69.0,,92.96,3,Month-to-month,Electronic check,DSL,Yes,No,1
+STD0233,70.0,59.0,47.16,2,Month-to-month,Bank transfer,DSL,No,Yes,0
+STD0234,59.0,11.0,71.84,2,Month-to-month,Electronic check,Fiber,Yes,No,1
+STD0235,26.0,59.0,92.19,2,Two year,Electronic check,No internet,Yes,Yes,0
+STD0236,49.0,29.0,113.98,1,Two year,Electronic check,DSL,No,No,1
+STD0237,35.0,79.0,66.46,1,One year,Electronic check,Fiber,Yes,Yes,0
+STD0238,71.0,64.0,81.24,3,Month-to-month,Credit card,No internet,Yes,Yes,1
+STD0239,73.0,18.0,112.35,0,One year,Electronic check,DSL,No,Yes,0
+STD0240,56.0,67.0,95.75,1,Two year,Electronic check,DSL,Yes,Yes,0
+STD0241,56.0,16.0,71.42,2,One year,Bank transfer,DSL,Yes,Yes,0
+STD0242,66.0,4.0,79.45,3,One year,Bank transfer,Fiber,Yes,Yes,1
+STD0243,56.0,19.0,81.94,3,Month-to-month,Electronic check,DSL,Yes,Yes,1
+STD0244,19.0,18.0,67.37,3,Month-to-month,Bank transfer,No internet,No,No,1
+STD0245,50.0,38.0,79.76,3,Month-to-month,Credit card,Fiber,Yes,No,1
+STD0246,66.0,50.0,98.16,3,Month-to-month,Credit card,Fiber,No,Yes,1
+STD0247,32.0,74.0,85.94,1,Month-to-month,Credit card,Fiber,No,Yes,0
+STD0248,61.0,26.0,40.89,0,Month-to-month,Credit card,Fiber,Yes,No,1
+STD0249,72.0,3.0,80.33,1,One year,Bank transfer,Fiber,Yes,Yes,1
+STD0250,67.0,26.0,76.71,3,Month-to-month,Credit card,No internet,Yes,Yes,1
+STD0251,55.0,59.0,72.22,1,Two year,Credit card,DSL,Yes,No,1
+STD0252,61.0,72.0,55.18,1,Month-to-month,Bank transfer,DSL,Yes,No,0
+STD0253,50.0,26.0,29.27,1,One year,Bank transfer,DSL,Yes,No,0
+STD0254,53.0,30.0,50.35,5,Month-to-month,Bank transfer,DSL,No,Yes,1
+STD0255,54.0,9.0,53.9,1,Month-to-month,Electronic check,DSL,Yes,No,0
+STD0256,34.0,34.0,93.07,1,Two year,Credit card,DSL,No,No,1
+STD0257,20.0,2.0,71.84,4,One year,Credit card,DSL,Yes,No,1
+STD0258,59.0,39.0,53.64,2,Month-to-month,Credit card,DSL,Yes,No,0
+STD0259,31.0,76.0,91.91,1,One year,Electronic check,Fiber,Yes,No,0
+STD0260,56.0,24.0,84.61,3,Month-to-month,Credit card,No internet,No,No,1
+STD0261,43.0,56.0,73.69,1,Month-to-month,Electronic check,Fiber,Yes,Yes,1
+STD0262,39.0,21.0,97.09,0,One year,Credit card,Fiber,Yes,Yes,0
+STD0263,67.0,52.0,64.22,2,Two year,Bank transfer,Fiber,Yes,Yes,0
+STD0264,51.0,17.0,48.48,3,One year,Credit card,DSL,Yes,No,0
+STD0265,59.0,25.0,65.48,1,One year,Electronic check,No internet,No,No,1
+STD0266,52.0,64.0,93.08,3,One year,Electronic check,DSL,Yes,No,1
+STD0267,39.0,13.0,89.21,2,One year,Credit card,DSL,Yes,No,1
+STD0268,28.0,69.0,102.81,1,One year,Electronic check,DSL,Yes,Yes,0
+STD0269,59.0,25.0,79.87,0,One year,Credit card,Fiber,No,No,0
+STD0270,70.0,63.0,78.49,3,Month-to-month,Credit card,DSL,Yes,No,0
+STD0271,42.0,33.0,84.32,2,Month-to-month,Credit card,DSL,Yes,Yes,0
+STD0272,40.0,49.0,59.86,1,One year,Bank transfer,DSL,Yes,Yes,0
+STD0273,64.0,2.0,76.74,3,One year,Bank transfer,Fiber,No,No,1
+STD0274,25.0,,62.65,2,Month-to-month,Electronic check,DSL,Yes,No,0
+STD0275,30.0,70.0,53.47,1,Month-to-month,Electronic check,DSL,No,No,1
+STD0276,61.0,67.0,66.77,0,One year,Electronic check,Fiber,No,No,0
+STD0277,56.0,84.0,70.25,2,One year,Credit card,No internet,Yes,No,0
+STD0278,39.0,25.0,60.09,1,One year,Credit card,Fiber,Yes,No,0
+STD0279,54.0,29.0,72.86,1,Month-to-month,Credit card,Fiber,Yes,No,1
+STD0280,45.0,74.0,72.8,3,Two year,Credit card,DSL,Yes,No,0
+STD0281,23.0,65.0,71.12,3,Two year,Bank transfer,No internet,Yes,No,0
+STD0282,43.0,51.0,89.02,0,Month-to-month,Credit card,No internet,No,No,1
+STD0283,24.0,5.0,80.55,5,Two year,Electronic check,Fiber,Yes,No,1
+STD0284,49.0,64.0,81.32,3,Two year,Electronic check,DSL,No,No,0
+STD0285,71.0,29.0,51.68,1,Month-to-month,Credit card,Fiber,Yes,Yes,0
+STD0286,36.0,58.0,82.82,1,One year,Electronic check,No internet,No,No,0
+STD0287,35.0,19.0,45.57,1,Month-to-month,Credit card,DSL,Yes,Yes,0
+STD0288,25.0,36.0,59.77,2,Month-to-month,Electronic check,Fiber,Yes,No,0
+STD0289,52.0,27.0,34.34,1,Month-to-month,Electronic check,Fiber,Yes,No,0
+STD0290,23.0,56.0,90.27,1,Two year,Bank transfer,DSL,Yes,Yes,0
+STD0291,44.0,14.0,,0,One year,Electronic check,Fiber,Yes,No,1
+STD0292,67.0,46.0,65.82,2,Month-to-month,Credit card,DSL,Yes,Yes,1
+STD0293,60.0,44.0,84.03,1,Two year,Bank transfer,Fiber,No,No,0
+STD0294,41.0,57.0,61.73,1,One year,Bank transfer,Fiber,Yes,No,0
+STD0295,53.0,17.0,73.63,1,Month-to-month,Electronic check,No internet,Yes,No,0
+STD0296,73.0,75.0,83.14,3,Month-to-month,Electronic check,DSL,Yes,No,0
+STD0297,63.0,55.0,115.77,1,Month-to-month,,Fiber,Yes,Yes,1
+STD0298,21.0,7.0,56.14,0,Month-to-month,Credit card,DSL,Yes,No,0
+STD0299,22.0,10.0,68.76,0,Month-to-month,Bank transfer,DSL,Yes,No,1
+STD0300,24.0,78.0,88.14,1,Month-to-month,Bank transfer,No internet,No,Yes,0
+STD0301,29.0,78.0,88.03,2,Month-to-month,Bank transfer,Fiber,No,Yes,0
+STD0302,71.0,20.0,71.41,1,Two year,Bank transfer,Fiber,Yes,No,0
+STD0303,,39.0,58.42,1,Two year,Credit card,DSL,Yes,No,0
+STD0304,47.0,11.0,52.78,0,Month-to-month,Electronic check,Fiber,Yes,No,0
+STD0305,53.0,69.0,69.31,0,Month-to-month,Bank transfer,Fiber,No,Yes,0
+STD0306,60.0,78.0,45.72,1,Month-to-month,Bank transfer,DSL,Yes,Yes,0
+STD0307,63.0,83.0,24.66,3,One year,Electronic check,Fiber,Yes,Yes,0
+STD0308,19.0,40.0,96.67,1,Month-to-month,Bank transfer,No internet,Yes,No,1
+STD0309,28.0,19.0,88.91,1,Month-to-month,Bank transfer,Fiber,Yes,No,0
+STD0310,26.0,47.0,106.02,1,One year,Bank transfer,Fiber,No,No,0
+STD0311,74.0,21.0,97.12,0,Two year,Bank transfer,Fiber,No,Yes,0
+STD0312,66.0,52.0,62.9,2,Month-to-month,Bank transfer,DSL,Yes,Yes,0
+STD0313,48.0,83.0,92.64,1,Month-to-month,Credit card,Fiber,Yes,Yes,0
+STD0314,38.0,41.0,87.02,1,Month-to-month,Electronic check,Fiber,No,No,0
+STD0315,60.0,8.0,104.04,1,Month-to-month,Bank transfer,Fiber,Yes,No,1
+STD0316,27.0,66.0,80.61,2,Month-to-month,,Fiber,Yes,No,1
+STD0317,45.0,37.0,57.54,1,Month-to-month,Bank transfer,Fiber,Yes,Yes,0
+STD0318,61.0,61.0,78.62,2,Two year,Credit card,Fiber,Yes,No,1
+STD0319,55.0,39.0,50.96,1,One year,Bank transfer,DSL,Yes,Yes,0
+STD0320,46.0,39.0,70.15,0,Month-to-month,Electronic check,No internet,Yes,No,1
+STD0321,65.0,2.0,50.58,1,Month-to-month,Bank transfer,Fiber,Yes,Yes,0
+STD0322,33.0,54.0,146.21,4,Month-to-month,Bank transfer,Fiber,Yes,No,1
+STD0323,44.0,31.0,99.27,2,Month-to-month,Credit card,No internet,Yes,No,0
+STD0324,58.0,49.0,40.8,2,Month-to-month,Credit card,DSL,No,Yes,0
+STD0325,69.0,1.0,62.11,0,Two year,Credit card,No internet,Yes,Yes,0
+STD0326,31.0,83.0,67.84,3,Month-to-month,Bank transfer,DSL,No,Yes,0
+STD0327,68.0,41.0,86.75,1,Month-to-month,Credit card,DSL,No,Yes,0
+STD0328,55.0,41.0,67.18,1,Month-to-month,Bank transfer,Fiber,No,No,0
+STD0329,50.0,45.0,72.35,4,One year,Electronic check,No internet,No,No,0
+STD0330,22.0,78.0,59.64,1,Month-to-month,Credit card,Fiber,Yes,No,0
+STD0331,25.0,9.0,46.35,1,Month-to-month,Bank transfer,DSL,Yes,Yes,1
+STD0332,32.0,59.0,57.63,1,Month-to-month,Credit card,Fiber,Yes,No,0
+STD0333,67.0,54.0,29.65,0,One year,Bank transfer,Fiber,No,Yes,0
+STD0334,59.0,67.0,83.12,4,Month-to-month,Electronic check,DSL,No,No,0
+STD0335,49.0,38.0,34.39,2,One year,Credit card,Fiber,Yes,No,0
+STD0336,42.0,28.0,78.71,1,Month-to-month,Electronic check,Fiber,Yes,No,1
+STD0337,32.0,62.0,49.12,0,Month-to-month,Bank transfer,Fiber,Yes,No,0
+STD0338,20.0,79.0,79.61,1,One year,Electronic check,Fiber,No,Yes,1
+STD0339,75.0,33.0,93.79,2,Two year,Credit card,Fiber,Yes,No,0
+STD0340,74.0,40.0,68.53,3,One year,Credit card,DSL,Yes,Yes,0
+STD0341,64.0,54.0,60.27,0,Month-to-month,Bank transfer,DSL,No,No,0
+STD0342,32.0,43.0,56.51,2,Month-to-month,Electronic check,DSL,Yes,No,1
+STD0343,23.0,49.0,43.29,0,Month-to-month,Bank transfer,No internet,Yes,Yes,0
+STD0344,52.0,57.0,62.99,0,One year,Credit card,Fiber,Yes,Yes,0
+STD0345,51.0,45.0,70.15,2,Month-to-month,Credit card,DSL,No,No,0
+STD0346,23.0,6.0,73.55,1,Two year,Electronic check,Fiber,Yes,No,1
+STD0347,60.0,47.0,79.06,4,Month-to-month,Bank transfer,Fiber,Yes,No,1
+STD0348,34.0,12.0,24.62,2,Month-to-month,Electronic check,Fiber,Yes,No,0
+STD0349,39.0,61.0,81.77,4,One year,Electronic check,Fiber,No,Yes,0
+STD0350,21.0,59.0,71.22,2,Two year,Credit card,Fiber,Yes,No,0
+STD0351,,6.0,72.11,0,One year,Bank transfer,Fiber,No,No,1
+STD0352,74.0,82.0,57.9,0,Month-to-month,Credit card,DSL,No,Yes,0
+STD0353,42.0,58.0,91.99,1,Two year,Credit card,DSL,Yes,No,0
+STD0354,38.0,42.0,97.69,1,One year,Bank transfer,DSL,Yes,No,0
+STD0355,23.0,28.0,46.78,1,One year,Credit card,Fiber,Yes,No,0
+STD0356,62.0,84.0,97.74,2,Month-to-month,Bank transfer,Fiber,Yes,No,0
+STD0357,23.0,28.0,29.25,4,Month-to-month,Bank transfer,No internet,No,No,0
+STD0358,55.0,9.0,64.05,4,Month-to-month,Electronic check,Fiber,Yes,No,1
+STD0359,67.0,36.0,93.44,2,Month-to-month,Credit card,DSL,No,Yes,0
+STD0360,73.0,36.0,137.12,2,Two year,Electronic check,Fiber,No,No,0
+STD0361,73.0,25.0,91.06,3,One year,Electronic check,DSL,Yes,No,0
+STD0362,72.0,44.0,41.0,2,One year,Credit card,No internet,Yes,Yes,0
+STD0363,60.0,9.0,114.12,7,Month-to-month,Bank transfer,Fiber,Yes,Yes,1
+STD0364,47.0,5.0,76.31,1,One year,Bank transfer,Fiber,Yes,Yes,1
+STD0365,73.0,12.0,55.29,0,Two year,Electronic check,No internet,No,No,1
+STD0366,35.0,6.0,102.76,2,Month-to-month,Bank transfer,DSL,No,Yes,0
+STD0367,42.0,33.0,93.57,1,Month-to-month,Credit card,Fiber,Yes,Yes,0
+STD0368,69.0,66.0,60.26,3,Month-to-month,Credit card,Fiber,Yes,No,1
+STD0369,58.0,10.0,75.9,1,Month-to-month,Credit card,DSL,No,No,1
+STD0370,44.0,5.0,96.4,4,Two year,Electronic check,DSL,Yes,Yes,1
+STD0371,36.0,17.0,62.52,0,Month-to-month,Credit card,Fiber,Yes,No,0
+STD0372,20.0,24.0,88.83,1,Month-to-month,Credit card,No internet,Yes,Yes,0
+STD0373,55.0,21.0,68.58,1,Month-to-month,Electronic check,DSL,No,Yes,1
+STD0374,21.0,68.0,122.72,2,Two year,Bank transfer,Fiber,No,No,0
+STD0375,73.0,31.0,69.66,1,One year,Electronic check,Fiber,No,No,0
+STD0376,34.0,84.0,30.24,1,Two year,Bank transfer,Fiber,No,Yes,0
+STD0377,35.0,80.0,73.66,0,One year,Credit card,Fiber,No,No,0
+STD0378,37.0,70.0,61.57,0,One year,Credit card,Fiber,Yes,No,0
+STD0379,58.0,62.0,49.46,2,Two year,Bank transfer,No internet,No,Yes,0
+STD0380,61.0,67.0,82.3,2,One year,Credit card,DSL,No,No,0
+STD0381,69.0,53.0,63.69,1,Month-to-month,Bank transfer,No internet,Yes,No,0
+STD0382,37.0,83.0,56.9,1,One year,Credit card,Fiber,No,No,0
+STD0383,41.0,39.0,88.99,0,Month-to-month,Credit card,Fiber,No,No,0
+STD0384,56.0,51.0,80.97,5,Month-to-month,Electronic check,DSL,No,Yes,0
+STD0385,64.0,84.0,92.7,2,Month-to-month,Credit card,No internet,Yes,No,0
+STD0386,18.0,30.0,22.08,0,One year,Credit card,DSL,No,Yes,0
+STD0387,61.0,49.0,83.43,0,Month-to-month,Bank transfer,Fiber,No,No,0
+STD0388,54.0,73.0,50.55,0,Month-to-month,Credit card,Fiber,No,Yes,0
+STD0389,20.0,48.0,64.96,1,Month-to-month,Electronic check,Fiber,No,No,0
+STD0390,37.0,55.0,90.69,2,Two year,Electronic check,Fiber,Yes,Yes,0
+STD0391,74.0,43.0,68.1,0,Month-to-month,Electronic check,Fiber,Yes,No,1
+STD0392,26.0,1.0,74.85,1,Two year,Credit card,DSL,No,No,0
+STD0393,39.0,79.0,107.37,2,Month-to-month,Bank transfer,Fiber,Yes,No,0
+STD0394,66.0,43.0,18.0,5,Month-to-month,Bank transfer,Fiber,Yes,No,1
+STD0395,50.0,14.0,86.7,0,Month-to-month,Electronic check,Fiber,Yes,No,1
+STD0396,36.0,56.0,69.42,2,One year,Bank transfer,Fiber,No,Yes,1
+STD0397,25.0,23.0,59.22,1,Month-to-month,Electronic check,Fiber,Yes,Yes,0
+STD0398,39.0,46.0,67.71,0,Month-to-month,Bank transfer,Fiber,Yes,No,1
+STD0399,47.0,35.0,113.61,1,Month-to-month,Electronic check,Fiber,Yes,No,1
+STD0400,19.0,44.0,,3,Month-to-month,Credit card,No internet,No,Yes,0
+STD0401,43.0,13.0,34.71,0,Two year,Bank transfer,Fiber,No,No,0
+STD0402,68.0,56.0,64.92,2,Two year,Credit card,Fiber,Yes,No,0
+STD0403,55.0,20.0,82.03,2,Month-to-month,Electronic check,Fiber,No,Yes,0
+STD0404,47.0,42.0,65.22,1,Month-to-month,Electronic check,Fiber,Yes,No,1
+STD0405,65.0,55.0,73.99,1,Month-to-month,Electronic check,No internet,Yes,,0
+STD0406,34.0,24.0,91.58,2,One year,Credit card,No internet,Yes,No,1
+STD0407,50.0,1.0,100.77,4,Month-to-month,Bank transfer,No internet,Yes,No,1
+STD0408,24.0,52.0,95.73,1,One year,Bank transfer,Fiber,Yes,Yes,0
+STD0409,22.0,74.0,96.49,0,Two year,Credit card,Fiber,Yes,,0
+STD0410,69.0,14.0,106.28,0,Month-to-month,Credit card,DSL,Yes,No,1
+STD0411,52.0,56.0,50.99,3,Month-to-month,Credit card,Fiber,Yes,Yes,1
+STD0412,29.0,61.0,83.06,3,Month-to-month,Bank transfer,DSL,Yes,Yes,0
+STD0413,37.0,13.0,94.8,3,Month-to-month,Credit card,Fiber,No,No,1
+STD0414,37.0,47.0,97.5,0,Month-to-month,Bank transfer,DSL,Yes,Yes,0
+STD0415,49.0,41.0,18.0,0,Month-to-month,Bank transfer,Fiber,No,No,0
+STD0416,28.0,65.0,80.58,3,One year,Bank transfer,Fiber,No,No,0
+STD0417,47.0,55.0,102.15,0,Month-to-month,Credit card,No internet,Yes,Yes,1
+STD0418,40.0,52.0,68.67,3,Two year,Credit card,Fiber,Yes,No,0
+STD0419,23.0,25.0,39.57,1,Month-to-month,Credit card,Fiber,No,No,0
+STD0420,58.0,74.0,68.53,0,Month-to-month,Bank transfer,DSL,Yes,No,0
+STD0421,41.0,45.0,70.98,2,Two year,Electronic check,No internet,Yes,Yes,0
+STD0422,69.0,80.0,64.65,1,Month-to-month,Bank transfer,DSL,No,No,0
+STD0423,57.0,55.0,18.0,3,One year,Bank transfer,DSL,Yes,Yes,0
+STD0424,31.0,14.0,66.34,1,Month-to-month,Credit card,Fiber,Yes,No,1
+STD0425,35.0,50.0,71.2,3,Two year,Credit card,Fiber,No,Yes,0
+STD0426,27.0,37.0,72.55,0,One year,Credit card,No internet,No,No,0
+STD0427,74.0,9.0,57.78,2,Month-to-month,Electronic check,DSL,Yes,No,0
+STD0428,54.0,42.0,41.21,1,Month-to-month,Electronic check,Fiber,No,Yes,1
+STD0429,39.0,61.0,40.12,5,One year,Bank transfer,DSL,Yes,Yes,0
+STD0430,34.0,12.0,41.85,3,Month-to-month,Credit card,No internet,Yes,Yes,1
+STD0431,53.0,37.0,97.63,2,One year,,Fiber,Yes,Yes,0
+STD0432,33.0,32.0,71.45,0,Two year,Credit card,Fiber,Yes,No,0
+STD0433,32.0,12.0,,0,Two year,Electronic check,Fiber,No,No,0
+STD0434,31.0,75.0,73.39,5,Month-to-month,Electronic check,DSL,No,Yes,1
+STD0435,29.0,20.0,89.17,2,Month-to-month,Credit card,DSL,Yes,Yes,1
+STD0436,23.0,62.0,55.7,1,Two year,Bank transfer,No internet,No,Yes,0
+STD0437,71.0,18.0,109.73,1,Month-to-month,Electronic check,DSL,No,Yes,1
+STD0438,48.0,60.0,48.14,1,Month-to-month,Electronic check,Fiber,No,No,1
+STD0439,57.0,49.0,78.16,1,Month-to-month,Bank transfer,No internet,Yes,Yes,0
+STD0440,45.0,72.0,111.9,1,Month-to-month,Credit card,No internet,Yes,Yes,1
+STD0441,45.0,59.0,95.48,3,Month-to-month,Bank transfer,No internet,Yes,Yes,0
+STD0442,59.0,4.0,54.13,1,Month-to-month,Credit card,Fiber,Yes,Yes,0
+STD0443,66.0,84.0,,0,Two year,Credit card,DSL,No,No,0
+STD0444,66.0,14.0,69.26,2,One year,Bank transfer,Fiber,Yes,No,0
+STD0445,18.0,3.0,94.49,1,Month-to-month,Bank transfer,DSL,Yes,Yes,1
+STD0446,57.0,20.0,71.55,2,Two year,Credit card,Fiber,Yes,Yes,0
+STD0447,58.0,23.0,85.89,2,Two year,Bank transfer,No internet,Yes,Yes,0
+STD0448,35.0,64.0,70.45,1,Month-to-month,Credit card,DSL,Yes,Yes,1
+STD0449,28.0,67.0,45.97,2,One year,Bank transfer,DSL,No,Yes,0
+STD0450,54.0,57.0,51.78,2,Two year,Electronic check,Fiber,Yes,No,0
+STD0451,34.0,29.0,59.01,0,Month-to-month,Electronic check,Fiber,No,No,0
+STD0452,49.0,30.0,87.06,0,Month-to-month,Bank transfer,DSL,Yes,No,0
+STD0453,68.0,39.0,80.48,2,One year,Credit card,DSL,Yes,Yes,0
+STD0454,72.0,32.0,65.16,5,Month-to-month,Bank transfer,DSL,Yes,Yes,0
+STD0455,33.0,44.0,95.1,2,Month-to-month,Credit card,No internet,Yes,Yes,0
+STD0456,18.0,79.0,52.02,1,Month-to-month,Electronic check,Fiber,Yes,Yes,0
+STD0457,48.0,53.0,86.66,4,Month-to-month,Bank transfer,Fiber,Yes,No,0
+STD0458,29.0,68.0,77.73,0,Month-to-month,Bank transfer,Fiber,No,Yes,0
+STD0459,52.0,11.0,80.09,0,One year,Bank transfer,Fiber,Yes,Yes,0
+STD0460,57.0,37.0,111.92,0,Month-to-month,Credit card,DSL,Yes,No,1
+STD0461,75.0,6.0,73.32,0,Month-to-month,Bank transfer,DSL,Yes,No,1
+STD0462,37.0,5.0,56.54,4,Month-to-month,Bank transfer,No internet,Yes,Yes,1
+STD0463,19.0,16.0,70.56,2,Month-to-month,Credit card,Fiber,No,Yes,0
+STD0464,35.0,72.0,63.85,5,Month-to-month,Electronic check,No internet,Yes,No,0
+STD0465,53.0,62.0,53.49,0,One year,Credit card,Fiber,Yes,Yes,0
+STD0466,43.0,35.0,75.87,1,Two year,Electronic check,Fiber,No,Yes,0
+STD0467,30.0,33.0,99.18,4,Two year,Credit card,Fiber,No,No,1
+STD0468,47.0,72.0,60.1,1,One year,Bank transfer,DSL,No,No,0
+STD0469,56.0,54.0,49.43,2,Month-to-month,Credit card,Fiber,Yes,No,0
+STD0470,74.0,25.0,85.36,3,Two year,Credit card,DSL,Yes,No,0
+STD0471,72.0,44.0,73.33,2,Month-to-month,Credit card,DSL,Yes,Yes,0
+STD0472,39.0,18.0,103.8,1,Month-to-month,Credit card,Fiber,Yes,No,1
+STD0473,49.0,39.0,68.75,2,Month-to-month,Bank transfer,DSL,Yes,No,1
+STD0474,51.0,35.0,55.9,3,One year,Bank transfer,DSL,No,Yes,0
+STD0475,60.0,74.0,97.52,0,Month-to-month,Credit card,Fiber,Yes,Yes,0
+STD0476,22.0,48.0,78.04,1,Month-to-month,Credit card,No internet,No,No,0
+STD0477,64.0,75.0,91.19,2,One year,Bank transfer,DSL,Yes,No,1
+STD0478,42.0,14.0,86.93,0,Month-to-month,Bank transfer,Fiber,No,,1
+STD0479,36.0,49.0,18.0,3,Month-to-month,,Fiber,Yes,Yes,0
+STD0480,70.0,20.0,45.61,0,Month-to-month,Credit card,Fiber,Yes,No,1
+STD0481,25.0,36.0,61.39,3,Month-to-month,Bank transfer,No internet,Yes,Yes,1
+STD0482,46.0,5.0,74.28,3,Month-to-month,Bank transfer,Fiber,Yes,Yes,1
+STD0483,62.0,50.0,61.73,4,Two year,Bank transfer,No internet,Yes,No,0
+STD0484,60.0,16.0,106.52,3,Month-to-month,Credit card,Fiber,No,Yes,1
+STD0485,33.0,29.0,75.89,4,Two year,Credit card,Fiber,Yes,No,0
+STD0486,43.0,36.0,56.03,1,Month-to-month,Credit card,Fiber,Yes,Yes,1
+STD0487,51.0,46.0,123.63,0,Month-to-month,Bank transfer,DSL,Yes,No,1
+STD0488,71.0,11.0,56.86,2,One year,Credit card,DSL,Yes,No,0
+STD0489,20.0,12.0,56.75,1,Month-to-month,Credit card,Fiber,Yes,No,1
+STD0490,35.0,59.0,90.33,4,Month-to-month,Credit card,DSL,Yes,Yes,0
+STD0491,35.0,46.0,55.74,0,Two year,Credit card,Fiber,Yes,No,0
+STD0492,34.0,77.0,81.38,3,Month-to-month,Electronic check,No internet,Yes,No,0
+STD0493,39.0,6.0,53.65,2,Month-to-month,Electronic check,No internet,Yes,No,1
+STD0494,21.0,31.0,28.39,2,One year,Credit card,No internet,No,No,0
+STD0495,64.0,5.0,84.43,1,Month-to-month,Bank transfer,No internet,No,No,0
+STD0496,74.0,45.0,50.92,3,Month-to-month,Credit card,Fiber,Yes,Yes,0
+STD0497,37.0,74.0,93.65,1,Month-to-month,Credit card,Fiber,Yes,No,1
+STD0498,36.0,35.0,112.04,1,One year,Credit card,DSL,Yes,Yes,0
+STD0499,32.0,27.0,91.7,0,Month-to-month,Electronic check,Fiber,No,No,1
+STD0500,44.0,53.0,103.77,2,Two year,Electronic check,Fiber,Yes,No,0
